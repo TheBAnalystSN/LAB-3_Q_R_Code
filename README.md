@@ -23,3 +23,4 @@ This lab refactors my previous Frontend Mentor project — the **QR Code Compone
 
 ## Submission
 - **GitHub Repositories:**
+https://github.com/TheBAnalystSN/LAB-3_Q_R_Code.git
